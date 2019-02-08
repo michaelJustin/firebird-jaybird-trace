@@ -1,3 +1,3 @@
 # firebird-jaybird-trace
 
-See https://wordpress.com/post/mikejustin.wordpress.com/4432
+See https://mikejustin.wordpress.com/2019/02/07/firebird-trace-and-audit-services-via-jaybird/
